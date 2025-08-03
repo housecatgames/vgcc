@@ -1,2 +1,2 @@
 # vgcc
-VGCC Code Repositroy
+> https://github.com/vgcc-hub
